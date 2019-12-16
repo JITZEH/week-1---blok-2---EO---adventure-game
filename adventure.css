@@ -1,0 +1,53 @@
+*{
+color: white; 
+}
+
+body {
+	background-image:url("img/vastgebonden.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+
+#button1 {
+	background-image:url("img/vastgebonden.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+color: white;
+height: 50px;
+width: 100px;
+font-weight: bold;
+margin-left: 550px;
+margin-top: 600px;
+}
+
+#button2 {
+	background-image:url("img/vastgebonden.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+color: white;
+height: 50px;
+width: 100px;
+font-weight: bold;
+}
+
+#button3 {
+	background-image:url("img/vastgebonden.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+color: white;
+height: 50px;
+width: 100px;
+font-weight: bold;
+}
+
+#inventoryItem {
+	background-image: none;
+	color:white;
+}
+
+#game-buttons{
+
+}
