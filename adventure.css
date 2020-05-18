@@ -12,7 +12,7 @@ body {
 
 
 #button1 {
-	background-image:url("img/vastgebonden.jpg");
+	background-image:url("img/vorige.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 color: white;
@@ -24,7 +24,7 @@ margin-top: 600px;
 }
 
 #button2 {
-	background-image:url("img/vastgebonden.jpg");
+	background-image:url("img/opnieuw.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 color: white;
@@ -34,7 +34,7 @@ font-weight: bold;
 }
 
 #button3 {
-	background-image:url("img/vastgebonden.jpg");
+	background-image:url("img/volgende.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 color: white;
